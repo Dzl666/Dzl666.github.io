@@ -38,6 +38,7 @@ google scholar citations <strong> <span id='total_cit'>260000+</span></strong>
 
 
 # 🔬 项目经历与研究经历
+<span class='anchor' id='projects-and-researches'></span>
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
@@ -169,17 +170,20 @@ google scholar citations <strong> <span id='total_cit'>260000+</span></strong>
 
 
 # 📖 教育经历
+<span class='anchor' id='educations'></span>
 
 - _2022.09 - 现在_, 计算机科学（人工智能）-理学硕士, **苏黎世大学**, 瑞士
 - _2018.09 - 2022.06_, 机械设计制造及其自动化-工学学士 & 计算机科学与技术-工学学士, **哈尔滨工业大学（深圳）**, 中国
 
 
 # 💻 工作经历
+<span class='anchor' id='workings'></span>
 
 - _2024.02 - 2024.06_, 习题课讲师 – 数据结构与算法[Informatics II](https://www.ifi.uzh.ch/en/dbtg/teaching/courses/infoII.html), 苏黎世大学计算机学院, 瑞士
 
 
 # 🎖 获奖与荣誉
+<span class='anchor' id='honors-and-awards'></span>
 
 - _2021, 2022_ 第20，21届全国大学生机器人大赛RoboMaster机甲大师赛全国一等奖
 - _2019_ 第19届全国大学生机器人大赛RoboMaster机甲大师赛全国二等奖
@@ -192,6 +196,7 @@ google scholar citations <strong> <span id='total_cit'>260000+</span></strong>
 
 
 # ✨ 其他
+<span class='anchor' id='miscellaneous'></span>
 
 - _2019 - 2021_ 哈尔滨工业大学（深圳）南工骁鹰机器人队，担任队长/副队长
 - _2019_ 哈尔滨工业大学（深圳）机电学院羽毛球队，院系杯团体第三名

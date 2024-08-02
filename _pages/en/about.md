@@ -51,7 +51,7 @@ Working on it ....
 
 
 # 🔬 Projects and Researches
-
+<span class='anchor' id='projects-and-researches'></span>
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
@@ -183,16 +183,19 @@ Working on it ....
 
 
 # 📖 Educations
+<span class='anchor' id='educations'></span>
 
 - _2022.09 - present_, M.Sc. in Informatics, **University of Zurich**, Switzerland
 - _2018.09 - 2022.06_, B.Eng. in Mechanical Engineering & B.Eng. in Computer Science, **Harbin Institute of Technology**, China
 
 # 💻 Workings
+<span class='anchor' id='workings'></span>
 
 - _2024.02 - 2024.06_, Teaching Assistant of [Informatics II](https://www.ifi.uzh.ch/en/dbtg/teaching/courses/infoII.html), University of Zurich, Switzerland.
 
 
 # 🎖 Honors and Awards
+<span class='anchor' id='honors-and-awards'></span>
 
 - _2021, 2022_ National First Prize in the 20th / 21st China National College Robotic Competition ‘RoboMaster’
 - _2020_ Regional Second Prize in the 12th Mathematics Competition of Chinese College Students
@@ -210,6 +213,7 @@ Working on it ....
 
 
 # ✨ Miscellaneous
+<span class='anchor' id='miscellaneous'></span>
 
 - _2019 - 2021_ Team leader of the robotic competition team at HIT Shenzhen campus
 - _2019_ Champion of the university’s football match, as captain and defender.

@@ -6,7 +6,7 @@ permalink: /
 
 <h1>Welcome to my website</h1>
 <p>Select your language:</p>
-<ul>
-  <li><a href="/en/">English</a></li>
-  <li><a href="/zh/">中文</a></li>
-</ul>
+<div class="language-switcher">
+  <a href="/en{{ page.url }}">English</a>
+  <a href="/zh{{ page.url }}">中文</a>
+</div>
