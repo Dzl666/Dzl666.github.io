@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+url: "https://dzl666.github.io"
+baseurl: "" # 根路径，如果有子路径，设置为对应的路径
+
 # Site Settings
 title                    : "Zilong Deng"
 description              : "Master's student in Computer Science at The University of Zürich"
