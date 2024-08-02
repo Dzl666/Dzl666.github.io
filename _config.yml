@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zilong Deng (邓紫龙)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University Zürich"
+  bio              : "University of Zürich"
   location         : "Zürich, Switzerland"
   employer         :
   pubmed           : 
@@ -58,6 +58,34 @@ author:
   youtube          :
   wikipedia        :
 
+
+main_links:
+  en:
+    - title: "About Me"
+      url: "/en/#about-me"
+    - title: "Projects & Researches"
+      url: "/en/#-projects-and-researches"
+    - title: "Educations"
+      url: "/en/#-educations"
+    - title: "Workings"
+      url: "/en/#-workings"
+    - title: "Honors & Awards"
+      url: "/en/#-honors-and-awards"
+    - title: "Others"
+      url: "/en/#-miscellaneous"
+  zh:
+    - title: "关于我"
+      url: "/zh/#about-me"
+    - title: "项目与研究"
+      url: "/zh/#-项目经历与研究经历"
+    - title: "教育经历"
+      url: "/zh/#-教育经历"
+    - title: "工作经历"
+      url: "/zh/#-工作经历"
+    - title: "获奖与荣誉"
+      url: "/zh/#-获奖与荣誉"
+    - title: "其他"
+      url: "/zh/#-其他"
 
 # Reading Files
 include:

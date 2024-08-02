@@ -1,11 +1,9 @@
 ---
-permalink: /
-title: ""
+permalink: /zh/
+title: "我的主页"
 excerpt: ""
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
+lang: "zh"
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -32,7 +30,7 @@ google scholar citations <strong> <span id='total_cit'>260000+</span></strong>
 
 # 🔥 动态
 
-- _2022.07_: &nbsp;🎉🎉 我在日内瓦参加2023苏黎世联邦理工学院RobotX夏令营，尝试使用移动机器人探索复杂环境！
+- _2022.07_: &nbsp;🤖🛺 我在日内瓦参加2023苏黎世联邦理工学院RobotX夏令营，尝试使用移动机器人探索复杂环境！
 
 # 📝 论文发表
 
@@ -89,7 +87,7 @@ google scholar citations <strong> <span id='total_cit'>260000+</span></strong>
 [项目 – 基于NeRF对VR头戴相机进行图像稳定]()
 
 - 在“Depth-Supervised NeRF”的基础上对其流程进行修改和拓展，从而使用深度先验来重建室内环境
-- 实现“Deformable NeRF”, 通过运动先验来对带有运动模糊的输入图像进行去噪声学习，在VR中渲染模型来实现图像稳定
+- 实现“Deblur-NeRF”, 通过运动先验来对带有运动模糊的输入图像进行去噪声学习，在VR中渲染模型来实现图像稳定
 - 在只使用有限的训练视角且输入图像有运动噪声的情况下，对卧室环境达到了相对较好的三维重建质量
 
 </div>
@@ -107,7 +105,7 @@ google scholar citations <strong> <span id='total_cit'>260000+</span></strong>
 
 [本科毕业设计 – 基于隐式神经表示的医疗显微图像压缩算法]()
 
-- 设计了一套 Embedding-MLP-PixelShuffle 的pipeline 来对高分辨率医疗显微图像进行压缩（Pytorch）
+- 设计了Embedding-MLP-PixelShuffle 架构来对高分辨率医疗显微图像进行压缩，并对神经表示进行低秩正则化
 - 部署了一套基于隐式神经表示的超分辨率算法在接收端对解压后的图像进行还原（对应发送端的初步压缩）
 - 在压缩率为0.2-0.7区间时，实现了接近于JPEG2000算法的 BPP-PSNR 和 BPP-MSSSIM 表现
 
@@ -178,7 +176,7 @@ google scholar citations <strong> <span id='total_cit'>260000+</span></strong>
 
 # 💻 工作经历
 
-- _2024.02 - 2024.06_, 习题课助教 – 数据结构与算法[Informatics II](https://www.ifi.uzh.ch/en/dbtg/teaching/courses/infoII.html), 苏黎世大学计算机学院, 瑞士
+- _2024.02 - 2024.06_, 习题课讲师 – 数据结构与算法[Informatics II](https://www.ifi.uzh.ch/en/dbtg/teaching/courses/infoII.html), 苏黎世大学计算机学院, 瑞士
 
 
 # 🎖 获奖与荣誉
