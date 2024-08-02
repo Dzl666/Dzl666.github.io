@@ -1,11 +1,9 @@
 ---
-permalink: /
-title: ""
+permalink: /en/
+title: "About Me"
 excerpt: ""
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
+lang: "en"
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -23,7 +21,7 @@ My research interest includes computer vision and robotics, especially in 3D vis
 
 # 🔥 News
 
-- _2022.07_: &nbsp;🎉🎉 I was taking the wheeled robot challenges in the ETH RobotX summer school at Geneve !
+- _2022.07_: &nbsp;🤖🛺 I was taking the wheeled robot challenges in the ETH RobotX summer school at Geneve !
 
 # 📝 Publications
 

@@ -3,7 +3,7 @@ layout: compress
 ---
 
 <!doctype html>
-<html lang="en" class="no-js">
+<html lang="{{ page.lang | default: 'en' }}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -16,6 +16,23 @@ layout: compress
 
     <div id="main" role="main">
       {% include sidebar.html %}
+
+      <nav>
+        <ul>
+          {% assign lang = page.lang | default: 'en' %}
+          {% assign nav_items = site.data.navigation[lang] %}
+          {% for item in nav_items %}
+            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+          {% endfor %}
+          <li>
+            {% if page.lang == "en" %}
+              <a href="/zh{{ page.url | replace: '/en', '' }}">中文</a>
+            {% else %}
+              <a href="/en{{ page.url | replace: '/zh', '' }}">English</a>
+            {% endif %}
+          </li>
+        </ul>
+      </nav>
     
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
