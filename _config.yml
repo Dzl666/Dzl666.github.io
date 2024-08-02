@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zilong Deng - Homepage"
-description              : "Master's student in Computer Science at University Zurich"
+title                    : "Zilong Deng"
+description              : "Master's student in Computer Science at The University of Zürich"
 repository               : "Dzl666/Dzl666.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zilong Deng (邓紫龙)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University Zurich"
-  location         : "Z\"{u}rich, Switzerland"
+  bio              : "University Zürich"
+  location         : "Zürich, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Zurich # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
