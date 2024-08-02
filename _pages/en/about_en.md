@@ -17,7 +17,16 @@ lang: "en"
 
 My research interest includes computer vision and robotics, especially in 3D vision and perception of robots.
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+<!-- 
+I have published more than 100 papers at the top international AI conferences with total 
+<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>
+google scholar citations <strong> <span id='total_cit'>260000+</span></strong>
+</a> 
+(You can also use google scholar badge 
+<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>
+<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>).
+-->
 
 # 🔥 News
 
@@ -49,9 +58,10 @@ Working on it ....
 
 </div> -->
 
+<span class='anchor' id='projects-and-researches'></span>
 
 # 🔬 Projects and Researches
-<span class='anchor' id='projects-and-researches'></span>
+
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
@@ -182,20 +192,27 @@ Working on it ....
 </div>
 
 
-# 📖 Educations
 <span class='anchor' id='educations'></span>
+
+# 📖 Educations
+
 
 - _2022.09 - present_, M.Sc. in Informatics, **University of Zurich**, Switzerland
 - _2018.09 - 2022.06_, B.Eng. in Mechanical Engineering & B.Eng. in Computer Science, **Harbin Institute of Technology**, China
 
-# 💻 Workings
+
 <span class='anchor' id='workings'></span>
+
+# 💻 Workings
+
 
 - _2024.02 - 2024.06_, Teaching Assistant of [Informatics II](https://www.ifi.uzh.ch/en/dbtg/teaching/courses/infoII.html), University of Zurich, Switzerland.
 
 
-# 🎖 Honors and Awards
 <span class='anchor' id='honors-and-awards'></span>
+
+# 🎖 Honors and Awards
+
 
 - _2021, 2022_ National First Prize in the 20th / 21st China National College Robotic Competition ‘RoboMaster’
 - _2020_ Regional Second Prize in the 12th Mathematics Competition of Chinese College Students
@@ -212,8 +229,10 @@ Working on it ....
 - _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/) -->
 
 
-# ✨ Miscellaneous
 <span class='anchor' id='miscellaneous'></span>
+
+# ✨ Miscellaneous
+
 
 - _2019 - 2021_ Team leader of the robotic competition team at HIT Shenzhen campus
 - _2019_ Champion of the university’s football match, as captain and defender.

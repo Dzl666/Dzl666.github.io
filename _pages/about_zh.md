@@ -17,16 +17,6 @@ lang: "zh"
 
 我的研究兴趣集中在计算机视觉和机器人领域，特别是3D视觉方向和机器人感知方向。除此以外，我也熟悉机器人运动规划(基于ROS)、机器人嵌入式开发(STM32)、强化学习、机器学习等方向，在以上方向有过相关项目经历。
 
-<!-- 
-I have published more than 100 papers at the top international AI conferences with total 
-<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>
-google scholar citations <strong> <span id='total_cit'>260000+</span></strong>
-</a> 
-(You can also use google scholar badge 
-<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>
-<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>).
--->
 
 # 🔥 动态
 
@@ -37,8 +27,10 @@ google scholar citations <strong> <span id='total_cit'>260000+</span></strong>
 正在努力中 ....
 
 
-# 🔬 项目经历与研究经历
 <span class='anchor' id='projects-and-researches'></span>
+
+# 🔬 项目经历与研究经历
+
 
 <div class='paper-box'>
 <div class='paper-box-image'><div>
@@ -168,22 +160,27 @@ google scholar citations <strong> <span id='total_cit'>260000+</span></strong>
 </div>
 </div>
 
+<span class='anchor' id='educations'></span>
 
 # 📖 教育经历
-<span class='anchor' id='educations'></span>
+
 
 - _2022.09 - 现在_, 计算机科学（人工智能）-理学硕士, **苏黎世大学**, 瑞士
 - _2018.09 - 2022.06_, 机械设计制造及其自动化-工学学士 & 计算机科学与技术-工学学士, **哈尔滨工业大学（深圳）**, 中国
 
 
-# 💻 工作经历
 <span class='anchor' id='workings'></span>
+
+# 💻 工作经历
+
 
 - _2024.02 - 2024.06_, 习题课讲师 – 数据结构与算法[Informatics II](https://www.ifi.uzh.ch/en/dbtg/teaching/courses/infoII.html), 苏黎世大学计算机学院, 瑞士
 
 
-# 🎖 获奖与荣誉
 <span class='anchor' id='honors-and-awards'></span>
+
+# 🎖 获奖与荣誉
+
 
 - _2021, 2022_ 第20，21届全国大学生机器人大赛RoboMaster机甲大师赛全国一等奖
 - _2019_ 第19届全国大学生机器人大赛RoboMaster机甲大师赛全国二等奖
@@ -195,8 +192,10 @@ google scholar citations <strong> <span id='total_cit'>260000+</span></strong>
 - _2019, 2020, 2021_ 哈尔滨工业大学优秀学生/学生干部 (top 10%)
 
 
-# ✨ 其他
 <span class='anchor' id='miscellaneous'></span>
+
+# ✨ 其他
+
 
 - _2019 - 2021_ 哈尔滨工业大学（深圳）南工骁鹰机器人队，担任队长/副队长
 - _2019_ 哈尔滨工业大学（深圳）机电学院羽毛球队，院系杯团体第三名

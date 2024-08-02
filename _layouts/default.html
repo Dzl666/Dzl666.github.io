@@ -13,13 +13,6 @@ layout: compress
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-    <li>
-      {% if page.lang == "en" %}
-        <a href="/{{ page.url | replace: '/en', '' }}">中文</a>
-      {% else %}
-        <a href="/en{{ page.url | replace: '/zh', '' }}">English</a>
-      {% endif %}
-    </li>
 
     <div id="main" role="main">
       {% include sidebar.html %}
