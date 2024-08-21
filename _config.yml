@@ -10,7 +10,7 @@ baseurl: "" # 根路径，如果有子路径，设置为对应的路径
 
 # Site Settings
 title                    : "Zilong Deng"
-description              : "Master's student in Computer Science at The University of Zürich"
+description              : "Master's student studying Computer Science"
 repository               : "Dzl666/Dzl666.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,9 +24,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zilong Deng (邓紫龙)"
+  name             : "邓紫龙 Zilong Deng "
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Zürich"
+  bio              : "Universität Zürich"
   location         : "Zürich, Switzerland"
   employer         :
   pubmed           : 
@@ -48,7 +48,7 @@ author:
   lastfm           :
   linkedin         : "zilong-deng-aa7747283"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0001-6820-5377"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
