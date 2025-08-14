@@ -1,6 +1,6 @@
 ---
 title: Head-Worn Camera Image Stabilization using Neural Radiance Field
-date: 2023-06
+date: 2023-06-01
 external_link: ''
 tags:
   - NeRF

@@ -1,6 +1,6 @@
 ---
 title: Multi-Arm Concentric Tube Robot for Minimally Invasive Surgery
-date: 2022-06
+date: 2022-06-01
 external_link: ''
 tags:
   - Robot

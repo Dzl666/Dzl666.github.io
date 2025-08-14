@@ -1,6 +1,6 @@
 ---
 title: Neural Representation-based Medical Microscopic Image Compression
-date: 2022-06
+date: 2022-06-01
 external_link: ''
 tags:
   - Image Compression
