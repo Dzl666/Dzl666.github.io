@@ -137,7 +137,7 @@ skills:
       - name: Matlab
         icon: chart-bar
       - name: Pytorch, ROS, CMake
-        icon: circle-stack
+        icon: wrench-screwdriver
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -156,13 +156,13 @@ skills:
 
 
 languages:
-  - name: Chinese (Manderin)
+  - name: Chinese
     percent: 100
-  - name: Chinese (Cantonese)
+  - name: Chinese (Yue)
     percent: 100
   - name: English
     percent: 90
-  - name: Deutsch (German)
+  - name: German
     percent: 50
 
 # Awards.
@@ -182,4 +182,4 @@ awards:
 
 ## About Me
 
-I am a Master's Student in Computer Science at the University of Zurich. My research interest includes computer vision and robotics, especially in 3D vision and perception of robots. I am currently doing research in Computer Vision and Geometry group, focusing on open-world 3D perception.
+I am a Master's Student studying Computer Science at the University of Zürich. My research interest includes computer vision and robotics, especially in 3D vision and perception of robots. I am currently doing research in Computer Vision and Geometry group at ETH Zürich, focusing on open-world 3D perception.

@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: '项目'
 date: 2024-05-19
 type: landing
 
@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: 我参与过的项目
       filters:
         folders:
           - project

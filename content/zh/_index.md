@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: 下载简历
         url: uploads/resume.pdf
     design:
       css_class: dark
@@ -32,14 +32,11 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 我的研究'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        我感兴趣的领域是3D视觉和机器人感知。
+        欢迎联系合作~
     design:
       columns: '1'
   # - block: collection
@@ -56,7 +53,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: 论文发表
       text: ""
       filters:
         folders:
@@ -77,7 +74,7 @@ sections:
   - block: collection
     id: events
     content:
-      title: Recent News
+      title: 最新消息
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

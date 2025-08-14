@@ -4,6 +4,8 @@ date: 2024-09-01
 external_link: ''
 tags:
   - Drone
+  - Reinforcement Learning
+  - Computer Vision
 ---
 
 This project was conducted within Robotics and Perception Group at Universitat Zurich.
