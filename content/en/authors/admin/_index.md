@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 邓紫龙
+title: Zilong Deng
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -9,9 +9,9 @@ name_pronunciation: ''
 first_name: Zilong
 last_name: Deng
 
-# Status emoji
+# Status emoji 
 status:
-  icon: 👨‍💻💻🐱‍🐉
+  icon: 👨‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -35,8 +35,8 @@ profiles:
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/Dzl666
   - icon: brands/linkedin
@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Robotics
+  - Computer Vision & 3D Vision
   - Artificial Intelligence
-  - Computer Vision
 
 education:
   # - area: PhD Artificial Intelligence
@@ -61,89 +61,98 @@ education:
   #   button:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
-  - area: MSc Artificial Intelligence
+  - area: MSc Computer Science
     institution: Universität Zürich
     date_start: 2022-09-01
     date_end: 2025-08-31
     summary: |
       GPA: 5.7/6.0
-
+      Majoring in Artificial Intelligence
       Research Areas:
       - Computer Vision
       - 3D Vision
       - Generative Models
-  - area: BEng Mechanical Eng
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BEng Mechanical Engineering | BEng Computer Science
+    institution: Harbin Institute of Technology, Shenzhen
+    date_start: 2018-09-01
+    date_end: 2022-06-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 91/100
       
       Research Areas:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Design and Control of Robotics
+      - Computer Vision
+      - SLAM
 
 
 
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Student Researcher
+    company_name: Computer Vision and Geometry Group, ETH Zürich
+    company_url: https://cvg.ethz.ch/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-10
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I am a project student and thesis student in the group, conducted research on 3D vision.
+  - position: Research Intern
+    company_name: Zürich Research Center, Huawei Switzerland
+    company_url: https://careers.huaweirc.ch/
+    company_logo: ''
+    date_start: 2024-11
+    date_end: 2025-07
+    summary: |
+      Research project on Structural Spatial-Temporal Consistent Forecasting of 4D Assets
+  - position: Teaching Assistant
+    company_name: Department of Informatics, Universität Zürich
+    company_url: https://www.ifi.uzh.ch/de.html
+    company_logo: ''
+    date_start: 2024-02
+    date_end: 2025-01
+    summary: |
+      Courses include:
+      - Informatics II: I gave tutorials on Data Structure, Algorithms, and programming in C
+      - Machine Learning: I was a teaching assistant for the lecture about statistical machine learning
+  - position: Intern
+    company_name: DJI Innovation
+    company_url: https://www.dji.com/ch
+    company_logo: ''
+    date_start: 2021-05
+    date_end: 2021-08
+    summary: |
+      Summary:
+      - Participated in the National Robotic Competitions and performed technical presentations at DJI as an excellent team.
+      - Real-time visual recognition using modified YOLOv5 and target tracking using Extended Kalman Filter.
+      - Designed a C language-based ROS-like framework for embedded system (STM32) of wheeled robots
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: Python, C, C++, Java
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Matlab
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
+      - name: Pytorch, ROS, CMake
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
-        description: ''
-        percent: 60
         icon: person-simple-walk
+      - name: Badminton
+        icon: badminton
       - name: Cats
-        description: ''
-        percent: 100
         icon: cat
+      - name: Football
+        icon: football
       - name: Photography
-        description: ''
-        percent: 80
         icon: camera
+      
 
 
 languages:
@@ -161,28 +170,16 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  - title: National First Prize in the 20th / 21st China National College Robotic Competition ‘RoboMaster’
     date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    awarder: DJI Innovation
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  # - title: 'Object-Oriented Programming in R'
-  #   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-  #   certificate_url: https://www.datacamp.com
-  #   date: '2023-01-21'
-  #   awarder: datacamp
-  #   icon: datacamp
-  #   summary: |
-  #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      What I have done:
+      - Team leader of the robotic competition team, managed the project progress and proposed technical ideas.
+      - Designed a C language-based ROS-like framework for embedded system (STM32) of wheeled robots
+      - A lot of hard-workings
 ---
 
 ## About Me
 
-Zilong Deng is ?
-My research interest includes computer vision and robotics, especially in 3D vision and perception of robots. 
-<!-- She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+I am a Master's Student in Computer Science at the University of Zurich. My research interest includes computer vision and robotics, especially in 3D vision and perception of robots. I am currently doing research in Computer Vision and Geometry group, focusing on open-world 3D perception.

@@ -1,12 +1,15 @@
 ---
-title: 'An example conference paper'
+title: 'MonoTracker: Monocular RGB-Only 6D Tracking of Unknown Object'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Shaochang Tan
+  - Zuria Bauer
+  - Daniel Barath
+  - Marc Pollefeys
 
 # Author notes (optional)
 author_notes:
@@ -25,16 +28,17 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *The Thirty Sixth British Machine Vision Conference*
+publication_short: In *BMVC 2025*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Estimating the six degrees of freedom (6D) pose of unknown objects using only monocular RGB images is a challenging task, especially when dealing with textureless and small objects. In this paper, we propose a novel pipeline, MonoTracker, for 6D object pose estimation and tracking that operates without any prior depth information. MonoTracker is a model-free, RGB-only, 6D detector that works on unseen objects. It leverages state-of-the-art pre-trained deep learning models, enabling zero-shot 6D pose estimation by jointly optimizing object poses and correcting scale inconsistencies in monocular depth predictions. We validate our method on three public datasets -- YCBInEOAT, HO3D, and BEHAVE -- demonstrating significant improvements over the state of the art. As a downstream application, we also show that the estimated camera poses can be used as input in NeRF pipelines, facilitating novel-view synthesis. Our results highlight the potential of monocular RGB inputs for accurate 6D object tracking and reconstruction in real-world scenarios. The code will be made public.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - 6D Pose Estimation
+  - Object Reconstruction
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,18 +49,18 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Main Pipeline'
   focal_point: ''
   preview_only: false
 
