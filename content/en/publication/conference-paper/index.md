@@ -34,10 +34,7 @@ publication_short: In *BMVC 2025*
 abstract: Estimating the six degrees of freedom (6D) pose of unknown objects using only monocular RGB images is a challenging task, especially when dealing with textureless and small objects. In this paper, we propose a novel pipeline, MonoTracker, for 6D object pose estimation and tracking that operates without any prior depth information. MonoTracker is a model-free, RGB-only, 6D detector that works on unseen objects. It leverages state-of-the-art pre-trained deep learning models, enabling zero-shot 6D pose estimation by jointly optimizing object poses and correcting scale inconsistencies in monocular depth predictions. We validate our method on three public datasets -- YCBInEOAT, HO3D, and BEHAVE -- demonstrating significant improvements over the state of the art. As a downstream application, we also show that the estimated camera poses can be used as input in NeRF pipelines, facilitating novel-view synthesis. Our results highlight the potential of monocular RGB inputs for accurate 6D object tracking and reconstruction in real-world scenarios. The code will be made public.
 
 # Summary. An optional shortened abstract.
-summary: 
-  -	Pose estimation and reconstruction of tiny, texture-less moving objects with RGB images and camera intrinsic as input.
-  -	Estimated object poses by a robust optimizer with mono-depth predictions with noisy and inconsistent scales.
-  -	Reconstruction and post-refinement of the scale factors and poses during NeRF training.
+summary: Pose estimation and reconstruction of tiny, texture-less moving objects with RGB images and camera intrinsic as input;	Estimated object poses by a robust optimizer with mono-depth predictions with noisy and inconsistent scales; Reconstruction and post-refinement of the scale factors and poses during NeRF training.
 
 
 tags:

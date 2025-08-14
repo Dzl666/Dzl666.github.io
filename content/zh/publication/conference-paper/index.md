@@ -34,10 +34,7 @@ publication_short: In *BMVC 2025 *
 abstract: Estimating the six degrees of freedom (6D) pose of unknown objects using only monocular RGB images is a challenging task, especially when dealing with textureless and small objects. In this paper, we propose a novel pipeline, MonoTracker, for 6D object pose estimation and tracking that operates without any prior depth information. MonoTracker is a model-free, RGB-only, 6D detector that works on unseen objects. It leverages state-of-the-art pre-trained deep learning models, enabling zero-shot 6D pose estimation by jointly optimizing object poses and correcting scale inconsistencies in monocular depth predictions. We validate our method on three public datasets -- YCBInEOAT, HO3D, and BEHAVE -- demonstrating significant improvements over the state of the art. As a downstream application, we also show that the estimated camera poses can be used as input in NeRF pipelines, facilitating novel-view synthesis. Our results highlight the potential of monocular RGB inputs for accurate 6D object tracking and reconstruction in real-world scenarios. The code will be made public.
 
 # Summary. An optional shortened abstract.
-summary: 
-  - 针对相机固定+运动物体的场景跟踪物体，进行6D姿态估计，并基于预测姿态进行几何模型重建或新视角生成
-  - 基于带有尺度误差和噪声的单目深度估计模型，通过鲁棒优化器实现仅有RGB输入的物体6D位姿估计（C++）
-  - 通过训练NeRF或者高斯溅射模型，对带有尺度噪声的物体点云、位姿和尺度进行全局优化，实现物体三维重建与新视角生成
+summary: 针对相机固定+运动物体的场景跟踪物体，进行6D姿态估计，并基于预测姿态进行几何模型重建或新视角生成；基于带有尺度误差和噪声的单目深度估计模型，通过鲁棒优化器实现仅有RGB输入的物体6D位姿估计（C++）；通过训练NeRF或者高斯溅射模型，对带有尺度噪声的物体点云、位姿和尺度进行全局优化，实现物体三维重建与新视角生成。
 
 tags:
   - 6D 姿态估计
