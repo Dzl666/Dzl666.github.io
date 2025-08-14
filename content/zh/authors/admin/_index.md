@@ -142,11 +142,11 @@ skills:
       - name: 登山
         icon: person-simple-walk
       - name: 羽毛球
-        icon: 🏸
+        icon: emoji/badminton
       - name: 撸猫
-        icon: 😺
+        icon: cat
       - name: 足球
-        icon: ⚽
+        icon: emoji/soccer
       - name: 摄影
         icon: camera
       

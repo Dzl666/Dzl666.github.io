@@ -1,5 +1,5 @@
 ---
-title: '(BMVC 2025 Oral) MonoTracker: Monocular RGB-Only 6D Tracking of Unknown Object'
+title: '(BMVC Oral) MonoTracker: Monocular RGB-Only 6D Tracking of Unknown Object'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

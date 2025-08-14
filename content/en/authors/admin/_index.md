@@ -145,11 +145,11 @@ skills:
       - name: Hiking
         icon: person-simple-walk
       - name: Badminton
-        icon: 🏸
+        icon: emoji/badminton
       - name: Cats
-        icon: 😺
+        icon: cat
       - name: Football
-        icon: ⚽
+        icon: emoji/soccer
       - name: Photography
         icon: camera
       
