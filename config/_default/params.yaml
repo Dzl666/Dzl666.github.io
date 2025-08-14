@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Powered by Hugo Blox Builder.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -58,3 +58,16 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  feedback:
+    responses:
+      positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/Dzl666/Dzl666.github.io/issues/new)'
+      negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/Dzl666/Dzl666.github.io/issues/new).'
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+content:
+  coordinates:
+    latitude: '47.3782'
+    longitude: '8.5491'
