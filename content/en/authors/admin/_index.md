@@ -92,7 +92,7 @@ work:
     company_name: Computer Vision and Geometry Group, ETH Zürich
     company_url: https://cvg.ethz.ch/
     company_logo: ''
-    date_start: 2023-10
+    date_start: 2023-10-01
     date_end: ''
     summary: |
       I am a project student and thesis student in the group, conducted research on 3D vision.
@@ -100,16 +100,16 @@ work:
     company_name: Zürich Research Center, Huawei Switzerland
     company_url: https://careers.huaweirc.ch/
     company_logo: ''
-    date_start: 2024-11
-    date_end: 2025-07
+    date_start: 2024-11-01
+    date_end: 2025-07-01
     summary: |
       Research project on Structural Spatial-Temporal Consistent Forecasting of 4D Assets
   - position: Teaching Assistant
     company_name: Department of Informatics, Universität Zürich
     company_url: https://www.ifi.uzh.ch/de.html
     company_logo: ''
-    date_start: 2024-02
-    date_end: 2025-01
+    date_start: 2024-02-01
+    date_end: 2025-01-01
     summary: |
       Courses include:
       - Informatics II: I gave tutorials on Data Structure, Algorithms, and programming in C
@@ -118,8 +118,8 @@ work:
     company_name: DJI Innovation
     company_url: https://www.dji.com/ch
     company_logo: ''
-    date_start: 2021-05
-    date_end: 2021-08
+    date_start: 2021-05-01
+    date_end: 2021-08-01
     summary: |
       Summary:
       - Participated in the National Robotic Competitions and performed technical presentations at DJI as an excellent team.
@@ -171,7 +171,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: National First Prize in the 20th / 21st China National College Robotic Competition ‘RoboMaster’
-    date: '2023-07-01'
+    date: 2023-07-01
     awarder: DJI Innovation
     summary: |
       What I have done:

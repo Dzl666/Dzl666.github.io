@@ -9,7 +9,9 @@ tags:
 This project was conducted within Robotics System Lab at ETH Zurich.
 
 Descriptions:
-  - Incorporation of LiDAR depth information instead of Stereo based depth improving accuracy and consistency of GS SLAM
-  - Implemented a loosely coupled, optimization-based LVIO system by fusing Lidar and RGB data.
+  -	Incorporated LiDAR’s depth instead of stereo-based depth to improve accuracy and consistency of GS SLAM.
+  -	Implemented a loosely coupled, optimization-based LVIO system by fusing Lidar and RGB data.
+  -	Outperformed other GS-SLAM methods by the time on localization accuracy and processing speed.
+
 
 <!--more-->
