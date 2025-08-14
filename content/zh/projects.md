@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: 项目
       text: 我参与过的项目
       filters:
         folders:

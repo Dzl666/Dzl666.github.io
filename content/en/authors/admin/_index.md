@@ -103,7 +103,7 @@ work:
     date_start: 2024-11-01
     date_end: 2025-07-01
     summary: |
-      Research project on Structural Spatial-Temporal Consistent Forecasting of 4D Assets
+      Research project on Structural Spatial-Temporal Consistent Forecasting of 4D Assets.
   - position: Teaching Assistant
     company_name: Department of Informatics, Universität Zürich
     company_url: https://www.ifi.uzh.ch/de.html
@@ -112,8 +112,8 @@ work:
     date_end: 2025-01-01
     summary: |
       Courses include:
-      - Informatics II: I gave tutorials on Data Structure, Algorithms, and programming in C
-      - Machine Learning: I was a teaching assistant for the lecture about statistical machine learning
+      - Informatics II: I gave tutorials on Data Structure, Algorithms, and programming in C.
+      - Machine Learning: I was a teaching assistant for the lecture about statistical machine learning.
   - position: Intern
     company_name: DJI Innovation
     company_url: https://www.dji.com/ch
@@ -124,7 +124,7 @@ work:
       Summary:
       - Participated in the National Robotic Competitions and performed technical presentations at DJI as an excellent team.
       - Real-time visual recognition using modified YOLOv5 and target tracking using Extended Kalman Filter.
-      - Designed a C language-based ROS-like framework for embedded system (STM32) of wheeled robots
+      - Designed a C language-based ROS-like framework for embedded system (STM32) of wheeled robots.
 
 
 # Skills
@@ -145,11 +145,11 @@ skills:
       - name: Hiking
         icon: person-simple-walk
       - name: Badminton
-        icon: badminton
+        icon: 🏸
       - name: Cats
-        icon: cat
+        icon: 😺
       - name: Football
-        icon: soccer
+        icon: ⚽
       - name: Photography
         icon: camera
       
@@ -176,8 +176,8 @@ awards:
     summary: |
       What I have done:
       - Team leader of the robotic competition team, managed the project progress and proposed technical ideas.
-      - Designed a C language-based ROS-like framework for embedded system (STM32) of wheeled robots
-      - A lot of hard-workings
+      - Designed a C language-based ROS-like framework for embedded system (STM32) of wheeled robots.
+      - A lot of hard-workings.
 ---
 
 ## About Me

@@ -12,6 +12,7 @@ design:
 sections:
   - block: resume-experience
     content:
+      title: 经历
       username: admin
     design:
       # Hugo date format
@@ -20,16 +21,16 @@ sections:
       is_education_first: false
   - block: resume-awards
     content:
-      title: Awards
+      title: 获奖
       username: admin
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: 其他
       username: admin
     design:
       show_skill_percentage: false
   - block: resume-languages
     content:
-      title: Languages
+      title: 语言
       username: admin
 ---
