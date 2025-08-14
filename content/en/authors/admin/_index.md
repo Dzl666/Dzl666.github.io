@@ -64,7 +64,7 @@ education:
   - area: MSc Computer Science
     institution: Universität Zürich
     date_start: 2022-09-01
-    date_end: 2025-08-31
+    date_end: 2025-09-01
     summary: |
       GPA: 5.7/6.0
       Majoring in Artificial Intelligence
@@ -75,7 +75,7 @@ education:
   - area: BEng Mechanical Engineering | BEng Computer Science
     institution: Harbin Institute of Technology, Shenzhen
     date_start: 2018-09-01
-    date_end: 2022-06-31
+    date_end: 2022-06-20
     summary: |
       GPA: 91/100
       
