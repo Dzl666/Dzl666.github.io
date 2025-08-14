@@ -149,7 +149,7 @@ skills:
       - name: Cats
         icon: cat
       - name: Football
-        icon: football
+        icon: soccer
       - name: Photography
         icon: camera
       
