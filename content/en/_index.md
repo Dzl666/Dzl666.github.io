@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am interested in 3D Vision.
+        I am interested in 3D Vision, Vision for Robotics, 3D/4D Generative Model, etc.
         
-        Please reach out to collaborate. 😃
+        Welcome to reach out for collaboration. 😃
     design:
       columns: '1'
   # - block: collection
@@ -77,7 +77,7 @@ sections:
     content:
       title: Recent News
       subtitle: ''
-      text: ''
+      text: "I was recently invited to present my master's thesis in the Google AR Munich Research Talk Series! I shared my research on open-set semantical reconstruction with the researchers in Google. Glad to have the warm discussions after the talk!
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)

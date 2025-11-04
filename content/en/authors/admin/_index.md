@@ -66,7 +66,7 @@ education:
     date_start: 2022-09-01
     date_end: 2025-09-01
     summary: |
-      GPA: 5.7/6.0
+      GPA: 5.8/6.0, summa cum laude
       Majoring in Artificial Intelligence
       Research Areas:
       - Computer Vision
@@ -88,6 +88,14 @@ education:
 
 
 work:
+  - position: Computer Vision Algorithm Engineer
+    company_name: DJI Technology
+    company_url: https://www.dji.com/
+    company_logo: ''
+    date_start: 2025-09-20
+    date_end: ''
+    summary: |
+      Working on deployment of camera algorithms in the Spatial Intelligence Department (former Vision Department) of DJI.
   - position: Student Researcher
     company_name: Computer Vision and Geometry Group, ETH Zürich
     company_url: https://cvg.ethz.ch/
