@@ -20,12 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master's Student
+# role: Master's Student
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Universität Zürich
-    url: https://dzl666.github.io
+# organizations:
+#   - name:  
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -72,7 +71,7 @@ education:
       - Computer Vision
       - 3D Vision
       - Generative Models
-  - area: BEng Mechanical Engineering | BEng Computer Science
+  - area: BEng Mechanical Engineering, BEng Computer Science
     institution: Harbin Institute of Technology, Shenzhen
     date_start: 2018-09-01
     date_end: 2022-06-20
@@ -89,13 +88,13 @@ education:
 
 work:
   - position: Computer Vision Algorithm Engineer
-    company_name: DJI Technology
+    company_name: Spatial Intelligence Group, DJI Technology, Shenzhen
     company_url: https://www.dji.com/
     company_logo: ''
     date_start: 2025-09-20
     date_end: ''
     summary: |
-      Working on deployment of camera algorithms in the Spatial Intelligence Department (former Vision Department) of DJI.
+      Research and deployment of Vision-Action model for auto-focusing of camera products.
   - position: Student Researcher
     company_name: Computer Vision and Geometry Group, ETH Zürich
     company_url: https://cvg.ethz.ch/
@@ -123,16 +122,16 @@ work:
       - Informatics II: I gave tutorials on Data Structure, Algorithms, and programming in C.
       - Machine Learning: I was a teaching assistant for the lecture about statistical machine learning.
   - position: Intern
-    company_name: DJI Innovation
+    company_name: DJI Technology, Shenzhen
     company_url: https://www.dji.com/ch
     company_logo: ''
     date_start: 2021-05-01
     date_end: 2021-08-01
     summary: |
       Summary:
-      - Participated in the National Robotic Competitions and performed technical presentations at DJI as an excellent team.
-      - Real-time visual recognition using modified YOLOv5 and target tracking using Extended Kalman Filter.
-      - Designed a C language-based ROS-like framework for embedded system (STM32) of wheeled robots.
+      - Participated in the National Robotic Competitions and performed technical presentations as an excellent team.
+      - Real-time visual recognition using modified YOLOv5 and target tracking using Kalman Filter.
+      - Implemented a C language-based ROS-like framework for management of wheeled robots on STM32 platform.
 
 
 # Skills
@@ -190,4 +189,4 @@ awards:
 
 ## About Me
 
-I am a Master's Student studying Computer Science at the University of Zürich. My research interest includes computer vision and robotics, especially in 3D vision and perception of robots. I am currently doing research in Computer Vision and Geometry group at ETH Zürich, focusing on open-world 3D perception.
+I am a Master's Student studying Computer Science at the University of Zürich. My research interest includes computer vision and robotics, especially in 3D vision and perception of robots. I am currently doing research in the Computer Vision and Geometry group at ETH Zürich, focusing on open-world 3D perception.

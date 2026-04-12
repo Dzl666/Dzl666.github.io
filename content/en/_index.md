@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/cv_en.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/cv_en.pdf
     design:
       css_class: dark
       background:
@@ -77,7 +77,7 @@ sections:
     content:
       title: Recent News
       subtitle: ''
-      text: "I was recently invited to present my master's thesis in the Google AR Munich Research Talk Series! I shared my research on open-set semantical reconstruction with the researchers in Google. Glad to have the warm discussions after the talk!
+      text: "I was recently invited to present my master's thesis in the Google AR Munich Research Talk Series! I shared my research on open-set semantical reconstruction with the researchers in Google. Glad to have the warm discussions after the talk!"
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)

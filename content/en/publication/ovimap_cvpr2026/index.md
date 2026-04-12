@@ -1,26 +1,29 @@
 ---
-title: '(BMVC 2025 Oral) MonoTracker: Monocular RGB-Only 6D Tracking of Unknown Object'
+title: '(CVPR 2026 Highlight) OVI-MAP: Open-Vocabulary Instance-Semantic Mapping'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Shaochang Tan
-  - Zuria Bauer
-  - Daniel Barath
+  - Federico Tombari
   - Marc Pollefeys
+  - Johanna Wald
+  - Daniel Barath
 
 # Author notes (optional)
 author_notes:
+  - 
+  - 
+  -
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2025-07-01T00:00:00Z'
+date: '2026-06-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-07-01T00:00:00Z'
+publishDate: '2026-06-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,18 +31,19 @@ publishDate: '2025-07-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Thirty Sixth British Machine Vision Conference*
-publication_short: In *BMVC*
+publication: In *IEEE Conference on Computer Vision and Pattern Recognition*
+publication_short: In *CVPR*
 
-abstract: Estimating the six degrees of freedom (6D) pose of unknown objects using only monocular RGB images is a challenging task, especially when dealing with textureless and small objects. In this paper, we propose a novel pipeline, MonoTracker, for 6D object pose estimation and tracking that operates without any prior depth information. MonoTracker is a model-free, RGB-only, 6D detector that works on unseen objects. It leverages state-of-the-art pre-trained deep learning models, enabling zero-shot 6D pose estimation by jointly optimizing object poses and correcting scale inconsistencies in monocular depth predictions. We validate our method on three public datasets -- YCBInEOAT, HO3D, and BEHAVE -- demonstrating significant improvements over the state of the art. As a downstream application, we also show that the estimated camera poses can be used as input in NeRF pipelines, facilitating novel-view synthesis. Our results highlight the potential of monocular RGB inputs for accurate 6D object tracking and reconstruction in real-world scenarios. The code will be made public.
+abstract: Incremental open-vocabulary 3D instance-semantic mapping is essential for autonomous agents operating in complex everyday environments. However, it remains challenging due to the need for robust instance segmentation, real-time processing, and flexible open-set reasoning. Existing methods often rely on the closed-set assumption or dense per-pixel language fusion, which limits scalability and temporal consistency. We introduce OVI-MAP that decouples instance reconstruction from semantic inference. We propose to build a class-agnostic 3D instance map that is incrementally constructed from RGB-D input, while semantic features are extracted only from a small set of automatically selected views using vision-language models. This design enables stable instance tracking and zero-shot semantic labeling throughout online exploration. Our system operates in real time and outperforms state-of-the-art open-vocabulary mapping baselines on standard benchmarks. 
 
 # Summary. An optional shortened abstract.
-summary: Pose estimation and reconstruction of tiny, texture-less moving objects with RGB images and camera intrinsic as input;	Estimated object poses by a robust optimizer with mono-depth predictions with noisy and inconsistent scales; Reconstruction and post-refinement of the scale factors and poses during NeRF training.
+summary: 
 
 
 tags:
-  - 6D Pose Estimation
-  - Object Reconstruction
+  - Instance Mapping
+  - Semantic Mapping
+  - Open-Vocabulary
 
 # Display this page in the Featured widget?
 featured: true
@@ -49,11 +53,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2603.26541'
+url_code: 'https://github.com/OVI-MAP/OVI-MAP'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://ovi-map.github.io/'
 url_slides: ''
 url_source: ''
 url_video: ''
