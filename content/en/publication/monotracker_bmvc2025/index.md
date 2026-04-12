@@ -53,7 +53,7 @@ url_dataset: ''
 url_poster: ''
 url_project: 'https://monotracker827.github.io/'
 url_slides: ''
-url_source: ''
+url_source: 'https://bmvc2025.bmva.org/proceedings/827/'
 url_video: ''
 
 # Featured image
