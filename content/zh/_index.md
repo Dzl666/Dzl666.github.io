@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: 下载简历
-        url: uploads/cv_en.pdf
+        # text: 下载简历
+        # url: uploads/cv_en.pdf
     design:
       css_class: dark
       background:

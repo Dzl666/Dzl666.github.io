@@ -1,5 +1,5 @@
 ---
-title: '(BMVC 2025 Oral) MonoTracker: Monocular RGB-Only 6D Tracking of Unknown Object'
+title: 'MonoTracker: Monocular RGB-Only 6D Tracking of Unknown Object (BMVC 2025 Oral)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,8 +13,6 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 date: '2025-07-01T00:00:00Z'
 doi: ''
@@ -29,7 +27,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *The Thirty Sixth British Machine Vision Conference*
-publication_short: In *BMVC*
+# publication_short: In *BMVC*
 
 abstract: Estimating the six degrees of freedom (6D) pose of unknown objects using only monocular RGB images is a challenging task, especially when dealing with textureless and small objects. In this paper, we propose a novel pipeline, MonoTracker, for 6D object pose estimation and tracking that operates without any prior depth information. MonoTracker is a model-free, RGB-only, 6D detector that works on unseen objects. It leverages state-of-the-art pre-trained deep learning models, enabling zero-shot 6D pose estimation by jointly optimizing object poses and correcting scale inconsistencies in monocular depth predictions. We validate our method on three public datasets -- YCBInEOAT, HO3D, and BEHAVE -- demonstrating significant improvements over the state of the art. As a downstream application, we also show that the estimated camera poses can be used as input in NeRF pipelines, facilitating novel-view synthesis. Our results highlight the potential of monocular RGB inputs for accurate 6D object tracking and reconstruction in real-world scenarios.
 
@@ -88,5 +86,3 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}} -->
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

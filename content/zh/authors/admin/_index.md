@@ -20,12 +20,10 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 硕士研究生
+# role: 硕士研究生
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 苏黎世大学，瑞士
-    url: https://dzl666.github.io
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

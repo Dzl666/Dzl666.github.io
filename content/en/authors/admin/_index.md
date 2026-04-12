@@ -41,7 +41,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/zilong-deng-aa7747283/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=fDo74RQAAAAJ#d
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-6820-5377
 
@@ -65,8 +65,8 @@ education:
     date_start: 2022-09-01
     date_end: 2025-09-01
     summary: |
-      GPA: 5.8/6.0, summa cum laude
-      Majoring in Artificial Intelligence
+      GPA: 5.8/6.0, Summa cum laude
+
       Research Areas:
       - Computer Vision
       - 3D Vision
@@ -76,7 +76,7 @@ education:
     date_start: 2018-09-01
     date_end: 2022-06-20
     summary: |
-      GPA: 91/100
+      GPA: 91/100, Outstanding Graduate
       
       Research Areas:
       - Design and Control of Robotics
@@ -94,7 +94,7 @@ work:
     date_start: 2025-09-20
     date_end: ''
     summary: |
-      Research and deployment of Vision-Action model for auto-focusing of camera products.
+      Research and deployment of Vision-Action model for Auto-Focusing of camera products.
   - position: Student Researcher
     company_name: Computer Vision and Geometry Group, ETH Zürich
     company_url: https://cvg.ethz.ch/
@@ -102,7 +102,7 @@ work:
     date_start: 2023-10-01
     date_end: ''
     summary: |
-      I am a project student and thesis student in the group, conducted research on 3D vision.
+      I am a thesis student in the group conducted research on 3D vision.
   - position: Research Intern
     company_name: Zürich Research Center, Huawei Switzerland
     company_url: https://careers.huaweirc.ch/
@@ -110,7 +110,7 @@ work:
     date_start: 2024-11-01
     date_end: 2025-07-01
     summary: |
-      Research project on Structural Spatial-Temporal Consistent Forecasting of 4D Assets.
+      Research on Structural Spatial-Temporal Consistent Forecasting of 4D Assets.
   - position: Teaching Assistant
     company_name: Department of Informatics, Universität Zürich
     company_url: https://www.ifi.uzh.ch/de.html
