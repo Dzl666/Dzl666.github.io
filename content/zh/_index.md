@@ -76,7 +76,7 @@ sections:
     content:
       title: 最新消息
       subtitle: ''
-      text: ''
+      text: '2025年9月：很高兴我被邀请到 Google AR Munich Research Talk Series分享我的硕士毕业论文！我的研究项目主要是关于开发词汇的语义地图重建，我跟Google的研究者们交换了一些关于在线开放语义提取的相关想法。感谢Johanna!'
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
